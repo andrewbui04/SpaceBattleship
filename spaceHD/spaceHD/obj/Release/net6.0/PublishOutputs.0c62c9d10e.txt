@@ -1,0 +1,5 @@
+C:\Users\ADMIN\Desktop\TextToSpeech\hhh\space.exe
+C:\Users\ADMIN\Desktop\TextToSpeech\hhh\space.dll
+C:\Users\ADMIN\Desktop\TextToSpeech\hhh\space.deps.json
+C:\Users\ADMIN\Desktop\TextToSpeech\hhh\space.runtimeconfig.json
+C:\Users\ADMIN\Desktop\TextToSpeech\hhh\space.pdb

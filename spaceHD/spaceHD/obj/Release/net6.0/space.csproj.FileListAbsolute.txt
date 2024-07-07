@@ -1,0 +1,15 @@
+C:\msys64\home\ADMIN\space\obj\Release\net6.0\space.csproj.AssemblyReference.cache
+C:\msys64\home\ADMIN\space\obj\Release\net6.0\space.GeneratedMSBuildEditorConfig.editorconfig
+C:\msys64\home\ADMIN\space\obj\Release\net6.0\space.AssemblyInfoInputs.cache
+C:\msys64\home\ADMIN\space\obj\Release\net6.0\space.AssemblyInfo.cs
+C:\msys64\home\ADMIN\space\obj\Release\net6.0\space.csproj.CoreCompileInputs.cache
+C:\msys64\home\ADMIN\space\bin\Release\net6.0\space.exe
+C:\msys64\home\ADMIN\space\bin\Release\net6.0\space.deps.json
+C:\msys64\home\ADMIN\space\bin\Release\net6.0\space.runtimeconfig.json
+C:\msys64\home\ADMIN\space\bin\Release\net6.0\space.dll
+C:\msys64\home\ADMIN\space\bin\Release\net6.0\space.pdb
+C:\msys64\home\ADMIN\space\obj\Release\net6.0\space.dll
+C:\msys64\home\ADMIN\space\obj\Release\net6.0\refint\space.dll
+C:\msys64\home\ADMIN\space\obj\Release\net6.0\space.pdb
+C:\msys64\home\ADMIN\space\obj\Release\net6.0\space.genruntimeconfig.cache
+C:\msys64\home\ADMIN\space\obj\Release\net6.0\ref\space.dll
